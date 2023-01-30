@@ -1,0 +1,19 @@
+/*footeer*/
+
+.footer__rodape {
+  background: rgb(189, 214, 143);
+  background: linear-gradient(
+    90deg,
+    rgba(189, 214, 143, 1) 42%,
+    rgba(233, 225, 185, 1) 100%
+  );
+  text-align: center;
+}
+
+.footer__rodape:first-child {
+  padding-top: 2em;
+}
+
+.footer__rodape:last-child {
+  padding-bottom: 2em;
+}

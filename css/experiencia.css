@@ -1,0 +1,49 @@
+/* experiencia*/
+
+.experience__profesional {
+  background: rgb(189, 214, 143);
+  background: linear-gradient(
+    90deg,
+    rgba(189, 214, 143, 1) 42%,
+    rgba(233, 225, 185, 1) 100%
+  );
+}
+
+.experience__container {
+  margin: 0 auto;
+  padding: 3em 0;
+  width: 80%;
+}
+
+.experience__box {
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 2em;
+  width: 100%;
+}
+
+.experience__img__edemsa {
+  box-shadow: 1rem 1rem 2rem grey;
+  height: 100%;
+  margin-bottom: 3rem;
+  width: 30%;
+}
+
+.experience__info__edemsa {
+  display: flex;
+  flex-direction: column;
+  margin: auto 0;
+  width: 55%;
+}
+
+.experience__title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.experience__text {
+  font-style: italic;
+  margin-bottom: 1rem;
+}

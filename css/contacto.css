@@ -1,0 +1,66 @@
+/*Contacto*/
+
+section.contacto {
+  height: auto;
+  width: 100%;
+}
+
+.contacto__container {
+  margin: 0 auto;
+  padding: 3em 0;
+  width: 80%;
+}
+
+.contacto__cards {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 4rem 2rem 2rem;
+}
+
+.contacto__cards-card {
+  min-width: 290px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+
+  margin: 1rem 0;
+  padding: 1rem;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: #fef4f5;
+
+  transition: all 0.3s ease-in-out;
+}
+
+.contacto__cards-card-img {
+  width: 40px;
+  height: 40px;
+  margin: 0 0.7rem;
+}
+
+.contacto__cards-card-text {
+  font-weight: 600;
+}
+
+.contacto__cards-card a {
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.contacto__cards-card a:hover {
+  font-style: italic;
+  font-weight: bolder;
+}
+
+.contacto__cards-card:hover {
+  box-shadow: 0 0 25px #fef4f5;
+}
+
+.contacto__cards .contacto__cards-card:last-child,
+.contacto__cards .contacto__cards-card:nth-child(2) {
+  background-color: #f2f7fb;
+}

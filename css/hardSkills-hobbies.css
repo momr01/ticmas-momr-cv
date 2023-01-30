@@ -1,0 +1,67 @@
+/* Skills */
+
+.hard__skills {
+  background: rgb(189, 214, 143);
+  background: linear-gradient(
+    90deg,
+    rgba(189, 214, 143, 1) 42%,
+    rgba(233, 225, 185, 1) 100%
+  );
+}
+
+.skills__container,
+.hobbies__container {
+  margin: 0 auto;
+  padding: 3em 0;
+  width: 80%;
+}
+
+.skills__title,
+.hobbies__title,
+.academic__title,
+.experience__section__title,
+.contacto__section__title {
+  font-size: 1.5rem;
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.skills__name {
+  font-weight: bolder;
+}
+
+.skills__line,
+.hobbies__line {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.skills__box,
+.hobbies__box {
+  height: 10em;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+  width: 15%;
+  margin: 2rem;
+}
+
+.skills__box ul,
+.hobbies__box ul {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin: 3em 0 0 0;
+  padding: 0;
+}
+
+.skills__img,
+.hobbies__img {
+  margin-right: 1rem;
+}
+
+.skills__img img,
+.hobbies__img img {
+  height: 2.5rem;
+  width: 2.5rem;
+}
