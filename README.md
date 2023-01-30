@@ -10,17 +10,9 @@ Secciones disponibles: Sobre mí, Hard skills, Soft skills, Idiomas, Hobbies, Es
 
 
 
-## GitHub Pages: [https://momr01.github.io/Oracle-ONE-Challenge-Portafolio/](https://momr01.github.io/Oracle-ONE-Challenge-Portafolio/)
+## GitHub Pages: [https://momr01.github.io/ticmas-momr-cv/](https://momr01.github.io/ticmas-momr-cv/)
 
-![Main](https://github.com/momr01/Oracle-ONE-Challenge-Portafolio/blob/main/assets/proyecto-actual/general.PNG)
-* * *
-![HardSkills](https://github.com/momr01/Oracle-ONE-Challenge-Portafolio/blob/main/assets/proyecto-actual/hardSkills.PNG)
-* * *
-![Proyectos](https://github.com/momr01/Oracle-ONE-Challenge-Portafolio/blob/main/assets/proyecto-actual/proyectos.PNG)
-* * *
-![Mobile](https://github.com/momr01/Oracle-ONE-Challenge-Portafolio/blob/main/assets/proyecto-actual/phone.PNG)
-* * *
-![Tablet](https://github.com/momr01/Oracle-ONE-Challenge-Portafolio/blob/main/assets/proyecto-actual/tablet2.PNG)
+
 
 <!-- CONTACT -->
 ## Contacto
